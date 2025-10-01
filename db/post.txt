@@ -1,0 +1,158 @@
+[
+  {
+    "usuario": "UsuarioEjemplo",
+    "contenido": "terminado el proyecto de node",
+    "fecha": "2025-09-30T20:09:00.461Z"
+  },
+  {
+    "usuario": "UsuarioEjemplo",
+    "contenido": "terminado el proyecto de node",
+    "fecha": "2025-09-30T20:10:45.592Z"
+  },
+  {
+    "usuario": "UsuarioEjemplo",
+    "contenido": "hola",
+    "fecha": "2025-09-30T20:10:52.538Z"
+  },
+  {
+    "usuario": "UsuarioEjemplo",
+    "contenido": "hola soy nuevo",
+    "fecha": "2025-09-30T20:29:56.407Z"
+  },
+  {
+    "id": 1759267630849,
+    "usuario": {
+      "nombre": "Anónimo",
+      "apellido": "",
+      "email": "",
+      "contraseña": "",
+      "edad": null,
+      "genero": "",
+      "posts": [],
+      "notificaciones": []
+    },
+    "contenido": "terminado el proyecto de node",
+    "fecha": "2025-09-30T21:27:10.849Z",
+    "likes": [],
+    "comentarios": []
+  },
+  {
+    "id": 1759267776523,
+    "usuario": {
+      "nombre": "Anónimo",
+      "apellido": "",
+      "email": "",
+      "contraseña": "",
+      "edad": null,
+      "genero": "",
+      "posts": [],
+      "notificaciones": []
+    },
+    "contenido": "terminado el proyecto de node",
+    "fecha": "2025-09-30T21:29:36.523Z",
+    "likes": [],
+    "comentarios": []
+  },
+  {
+    "id": 1759267779124,
+    "usuario": {
+      "nombre": "Anónimo",
+      "apellido": "",
+      "email": "",
+      "contraseña": "",
+      "edad": null,
+      "genero": "",
+      "posts": [],
+      "notificaciones": []
+    },
+    "contenido": "terminado el proyecto de node",
+    "fecha": "2025-09-30T21:29:39.124Z",
+    "likes": [],
+    "comentarios": []
+  },
+  {
+    "id": 1759267935463,
+    "usuario": {
+      "nombre": "Anónimo",
+      "apellido": "",
+      "email": "",
+      "contraseña": "",
+      "edad": null,
+      "genero": "",
+      "posts": [],
+      "notificaciones": []
+    },
+    "contenido": "soy nahuel",
+    "fecha": "2025-09-30T21:32:15.463Z",
+    "likes": [],
+    "comentarios": []
+  },
+  {
+    "id": 1759270704094,
+    "usuario": {
+      "nombre": "Anónimo",
+      "apellido": "",
+      "email": "",
+      "contraseña": "",
+      "edad": null,
+      "genero": "",
+      "posts": [],
+      "notificaciones": []
+    },
+    "contenido": "va quedando",
+    "fecha": "2025-09-30T22:18:24.094Z",
+    "likes": [],
+    "comentarios": []
+  },
+  {
+    "id": 1759271827926,
+    "usuario": {
+      "nombre": "Anónimo",
+      "apellido": "",
+      "email": "",
+      "contraseña": "",
+      "edad": null,
+      "genero": "",
+      "posts": [],
+      "notificaciones": []
+    },
+    "contenido": "hola ",
+    "fecha": "2025-09-30T22:37:07.926Z",
+    "likes": [],
+    "comentarios": []
+  },
+  {
+    "id": 1759272316424,
+    "usuario": {
+      "nombre": "Anónimo",
+      "apellido": "",
+      "email": "",
+      "contraseña": "",
+      "edad": null,
+      "genero": "",
+      "posts": [],
+      "notificaciones": []
+    },
+    "contenido": "andrea teamo ",
+    "fecha": "2025-09-30T22:45:16.424Z",
+    "likes": [],
+    "comentarios": []
+  },
+  {
+    "id": 1759275961628,
+    "usuario": {
+      "nombre": "Anónimo",
+      "apellido": "",
+      "email": "",
+      "contraseña": "",
+      "edad": null,
+      "genero": "",
+      "posts": [],
+      "notificaciones": []
+    },
+    "contenido": "que onda",
+    "fecha": "2025-09-30T23:46:01.628Z",
+    "likes": [],
+    "comentarios": []
+  }
+]

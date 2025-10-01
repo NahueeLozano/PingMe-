@@ -1,0 +1,187 @@
+body {
+  font-family: Arial;
+  margin: 0;
+  background: #ffe6f0;
+  padding-top: 80px;
+}
+
+header.pingme-header {
+  position: fixed;
+  background: #ff66b3;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 999;
+  background: #ff66b3;
+  color: white;
+  padding: 10px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+nav.nav-right button {
+  background: none;
+  border: none;
+  color: white;
+  font-size: 20px;
+  margin-left: 10px;
+  cursor: pointer;
+}
+
+/* Panel lateral fijo a la izquierda */
+.contactos-activos {
+  position: fixed;
+  top: 100px;
+  left: 0;
+  width: 260px;
+  background: #ffd6eb;
+  padding: 15px;
+  border-radius: 0 12px 12px 0;
+  box-shadow: 2px 0 8px rgba(0,0,0,0.1);
+  z-index: 1000;
+}
+
+/* Contenido principal desplazado a la derecha */
+.contenido-principal {
+  margin-left: 280px;
+}
+.contactos-activos h4 {
+  margin-bottom: 15px;
+  color: #ff3399;
+  font-size: 16px;
+  border-bottom: 1px solid #ff99cc;
+  padding-bottom: 5px;
+}
+
+.contactos-activos ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.contactos-activos li {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 12px;
+  font-size: 14px;
+  color: #333;
+  transition: background 0.2s ease;
+  padding: 5px;
+  border-radius: 6px;
+}
+
+.contactos-activos li:hover {
+  background: #ffe6f0;
+}
+
+.contactos-activos img {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  margin-right: 10px;
+  object-fit: cover;
+}
+
+.contactos-activos small {
+  font-size: 12px;
+  color: #888;
+}
+
+.notificaciones li {
+  font-size: 13px;
+  color: #444;
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+}
+
+.notificaciones i {
+  font-size: 16px;
+}
+
+form {
+  background: #ffd6eb;
+  padding: 15px;
+  border-radius: 8px;
+  margin-bottom: 15px;
+}
+
+form textarea {
+  width: 100%;
+  padding: 10px;
+  border-radius: 10px;
+  border: 1px solid #ff99cc;
+  outline: none;
+}
+
+form button {
+  background: #ff66b3;
+  color: white;
+  border: none;
+  padding: 8px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.post {
+  background: #ffd6eb;
+  padding: 15px;
+  border-radius: 8px;
+  margin-bottom: 15px;
+}
+
+.post h3 {
+  margin: 0 0 5px;
+  font-size: 18px;
+  color: #ff3399;
+}
+
+.post p {
+  margin: 0 0 10px;
+}
+
+.post small {
+  color: #666;
+}
+
+.actions button {
+  background: none;
+  border: none;
+  color: #ff66b3;
+  font-weight: bold;
+  cursor: pointer;
+  margin-right: 10px;
+  display: inline-flex;
+  align-items: center;
+  font-size: 14px;
+}
+
+.actions button:hover {
+  color: #ff3399;
+}
+.btn-pink {
+  background-color: #ff3399; /* rosa vibrante */
+  color: white;
+  border: none;
+  padding: 8px 15px;
+  border-radius: 5px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background 0.2s ease;
+}
+
+.btn-pink:hover {
+  background-color: #e60073; /* más intenso al pasar el mouse */
+}
+
+
+footer {
+  background: #ff66b3;
+  color: white;
+  text-align: center;
+  padding: 15px;
+}
+
+
